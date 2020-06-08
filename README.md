@@ -1,4 +1,7 @@
 # [Qiita-Darkness](https://git.io/qiita-dark)
+>[git.io/qiita-dark](https://git.io/qiita-dark)
+<br>[git.io/qiita-darkness](https://git.io/qiita-darkness)
+
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 <br><br>
 **Qiita Dark Style UserCSS**
