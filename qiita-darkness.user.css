@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Darkness Qiita
 @namespace   StylusThemes
-@version     0.0.1
+@version     1.0.0
 @homepageURL https://g
 @updateURL   https://g
 @license     CYCLE
@@ -75,7 +75,8 @@
 	.it-MdContent code { color: white; background-color: #555; }
 	.it-MdContent .code-frame { color: white; background-color: #151515; }
 	.it-MdContent .highlight { color: white; background-color: #000; }
-	.it-MdContent .code-lang { color: #f00; background-color: white; }
+	.it-MdContent .code-lang { background-color: white; }
+	.it-MdContent .code-lang span { color: #f00; }
 	/*text*/
 	/*link*/
 	.it-MdContent a { color: #25ff00; background-color: #000aff12; }
@@ -205,22 +206,22 @@
 	.PickupArticleList__PickupArticleCreatedAt-sc-17fzvef-10.gAbGwj { color: #bb0 }
 	.kGFpy { background-color: rgb(12, 0, 55); }
 	.bAnwxP { color: #636363; background-color: #000 } }
-  /*tag*/
-  .p-tagShow .tsi-Content { background-color: #000; border: 1px solid transparent; }
-  .tsi-Stats_count { color: #82faff; }
-  .p-tagShow .tsa-Content { background-color: rgb(12, 0, 55); }
-  .p-tagShow .tsr-UserList, .p-tagShow .tsr-OrganizationList { background-color: #2e2e2e; }
-  .tsr-User_name.pr-1, .tsr-Organization_name.pr-1, .tsf-ArticleBody_tagList { color: #80ff40; }
-  .tsr-User_screenname.pr-1, .tsr-Organization_screenname.pr-1, .tst-ArticleBody_author, .tsf-ArticleBody_author { color: #8f8fff; }
-  .tsr-User_contrib, .tsr-Organization_contrib, .tsf-Article_end { color: yellow; }
-  .tsr-User_rank.px-2.mr-1, .tsr-Organization_rank.px-2.mr-1 { color: #fff; }
-  .tsr-UserList_tabItem.is-active, .tsr-OrganizationList_tabItem.is-active { font-weight: bold; color: #fff; }
-  .tsr-User_contribCount, .tsr-Organization_contribCount { color: #f00; }
-  .tsa-MdContent a { color: #80ff40; }
-  .tsa-Content_heading { color: #fff; }
-  .tst-ArticleBody_meta span, .tst-ArticleBody_likeCount { color: #000; }
-  .tst-ArticleBody_tagList, .tst-ArticleBody_tagList span::before { color: #2d8500; }
-  .p-tagShow_mainBottom .tsf-ArticleList { background-color: #2e2e2e; }
-  .tsf-ArticleBody_title, .tsf-ArticleBody_meta span, .tsf-ArticleList_label span, .tsf-ArticleBody_likeCount { color: #fff; }
-  .st-Pager_link { color: #fff; }
-  .st-Pager_link:hover { color: #000; }
+	/*tag*/
+	.p-tagShow .tsi-Content { background-color: #000; border: 1px solid transparent; }
+	.tsi-Stats_count { color: #82faff; }
+	.p-tagShow .tsa-Content { background-color: rgb(12, 0, 55); }
+	.p-tagShow .tsr-UserList, .p-tagShow .tsr-OrganizationList { background-color: #2e2e2e; }
+	.tsr-User_name.pr-1, .tsr-Organization_name.pr-1, .tsf-ArticleBody_tagList { color: #80ff40; }
+	.tsr-User_screenname.pr-1, .tsr-Organization_screenname.pr-1, .tst-ArticleBody_author, .tsf-ArticleBody_author { color: #8f8fff; }
+	.tsr-User_contrib, .tsr-Organization_contrib, .tsf-Article_end { color: yellow; }
+	.tsr-User_rank.px-2.mr-1, .tsr-Organization_rank.px-2.mr-1 { color: #fff; }
+	.tsr-UserList_tabItem.is-active, .tsr-OrganizationList_tabItem.is-active { font-weight: bold; color: #fff; }
+	.tsr-User_contribCount, .tsr-Organization_contribCount { color: #f00; }
+	.tsa-MdContent a { color: #80ff40; }
+	.tsa-Content_heading { color: #fff; }
+	.tst-ArticleBody_meta span, .tst-ArticleBody_likeCount { color: #000; }
+	.tst-ArticleBody_tagList, .tst-ArticleBody_tagList span::before { color: #2d8500; }
+	.p-tagShow_mainBottom .tsf-ArticleList { background-color: #2e2e2e; }
+	.tsf-ArticleBody_title, .tsf-ArticleBody_meta span, .tsf-ArticleList_label span, .tsf-ArticleBody_likeCount { color: #fff; }
+	.st-Pager_link { color: #fff; }
+	.st-Pager_link:hover { color: #000; }
