@@ -24,7 +24,7 @@ Info:
 # Copyright holder
 <!--(optional)-->
 <!--(suggest: [Name,Email,URI,Organization])-->
-<br>`Name` `:` `INPUTHERE`
+<br>`Name` `:` `koumaza`
 # Language
 [English](#English)<br>[Japanese](#Japanese)
 
@@ -42,7 +42,7 @@ __Use is permitted only when the following contents can be accepted.__
 ## Japanese
 __下記の内容を承諾できる場合に限り使用を許可します｡__
 <br>
-<br>1/1. これのLICENCE以上の権限を必要とするLICENSEを使用しないこと｡
+<br>1/1. このLICENCE以上の権限を必要とするLICENSEを使用しないこと｡
 <br>2/2. 著作権保持者の不実表示をしないこと｡
 <br>3/3. 著作権保持者以外はこのLICENSEのファイル名以外を改変しないこと｡
 <br>4/4. ライセンスと著作権の表示、商業的使用、特許使用、私的使用、および配布の許可。
