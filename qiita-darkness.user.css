@@ -1,10 +1,10 @@
 /* ==UserStyle==
 @name        Darkness Qiita
 @namespace   StylusThemes
-@version     1.0.0
+@version     1.1.0
 @homepageURL https://github.com/koumaza/Qiita-Darkness.git
 @updateURL   https://raw.githubusercontent.com/koumaza/Qiita-Darkness/master/qiita-darkness.user.css
-@license     CYCLE
+@license     WTFPL
 @author      koumaza
 ==/UserStyle== */
 /*TODO
@@ -15,7 +15,7 @@
 
 @-moz-document domain("qiita.com") {
 	/* width */
-	.container { width: 500% !important; }
+	.container { max-width: 10000%!important; width: 100% !important; }
 	.st-Header_container, .p-home_container, .p-items_container { max-width: initial !important; }
 	/*homeandmisc*/
 	body { background-color: #000; }
