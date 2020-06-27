@@ -2,7 +2,7 @@
 >[git.io/qiita-dark](https://git.io/qiita-dark)
 <br>[git.io/qiita-darkness](https://git.io/qiita-darkness)
 
-![version](https://img.shields.io/badge/version-1.1.0-blue)
+![version](https://img.shields.io/badge/version-1.x.x-blue)
 <br><br>
 **Qiita Dark Style UserCSS**
 ## [__Goto Install Section__](#Install-Theme)
@@ -18,4 +18,4 @@ Many other changes
     - [Opera](https://addons.opera.com/en-US/extensions/details/stylus/)
     - [Cascadea for Safari](https://cascadea.app/)
 2. Install UserCSS
-  <br><br>[![install](https://img.shields.io/badge/install-v1.1.0-green)](https://raw.githubusercontent.com/koumaza/Qiita-Darkness/master/qiita-darkness.user.css)
+  <br><br>[![install](https://img.shields.io/badge/install-v1.x.x-green)](https://raw.githubusercontent.com/koumaza/Qiita-Darkness/master/qiita-darkness.user.css)
