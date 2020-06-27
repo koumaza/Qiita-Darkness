@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Darkness Qiita
 @namespace   StylusThemes
-@version     1.1.0
+@version     1.1.1
 @homepageURL https://github.com/koumaza/Qiita-Darkness.git
 @updateURL   https://raw.githubusercontent.com/koumaza/Qiita-Darkness/master/qiita-darkness.user.css
 @license     WTFPL
@@ -225,3 +225,32 @@
 	.tsf-ArticleBody_title, .tsf-ArticleBody_meta span, .tsf-ArticleList_label span, .tsf-ArticleBody_likeCount { color: #fff; }
 	.st-Pager_link { color: #fff; }
 	.st-Pager_link:hover { color: #000; }
+	.tsa-MdContent {
+    	font-size: 1.6rem;
+    	color: #333;
+	}
+	.tsa-Content_heading {
+    	color: #8f4;
+	}
+	dd.searchResultContainer_queryDescription {
+	    color: #fbb;
+	}
+	.searchResultContainer_emptyDescription {
+	    color: #ff8;
+	}
+	.searchResultContainer_textFieldContainer > .form-control {
+	    color: #ddd;
+	    background-color: #222;
+	}
+	.btn-default:hover {
+	    color: #e6e6e6;
+	    background-color: #333;
+	    border-color: #adadad;
+	}
+	.open>.dropdown-menu {
+	    display: block;
+	    background: #111;
+	}
+	.dropdown-menu>li>a {
+		color: #eee
+	}
