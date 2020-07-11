@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Darkness Qiita
 @namespace   StylusThemes
-@version     1.1.2
+@version     1.2.0
 @homepageURL https://github.com/koumaza/Qiita-Darkness.git
 @updateURL   https://raw.githubusercontent.com/koumaza/Qiita-Darkness/master/qiita-darkness.user.css
 @license     WTFPL
@@ -259,3 +259,4 @@
 	.EmojiPicker__Container-sc-1sgmj3k-0.gxDnMV { color: #fff; background-color: #333; }
 	.EmojiPicker__ContainerTabsItem-sc-1sgmj3k-2.djIZiU { background-color: #000; }
 	.EmojiPicker__ContainerBody-sc-1sgmj3k-3.dma-dXG { color:#000; background-color: #000; }
+	.it-ActionsMobile > button > span { color: #fff !important; }
