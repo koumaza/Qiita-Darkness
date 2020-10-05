@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Darkness Qiita
 @namespace   StylusThemes
-@version     1.2.1
+@version     1.2.2
 @homepageURL https://github.com/koumaza/Qiita-Darkness.git
 @updateURL   https://raw.githubusercontent.com/koumaza/Qiita-Darkness/master/qiita-darkness.user.css
 @license     WTFPL
@@ -156,24 +156,24 @@
 	.it-MdContent tr:nth-child(odd) { background-color: #f00; }
 	/*editor*/
 	.publicEditor { background-color: #666; }
-	.editorTitle input { color: #fff; background-color: #3c3c3c; }
-	.textoverlay-wrapper input { color: #fff; background-color: #3c3c3c !important; }
+	.css-avt099 input { color: #fff; background-color: #3c3c3c!important; }
+	.css-84k02h input { display: inline-block!important; color: #000; border-color: #f00!important; }
 	.editorMarkdown_tab.active { background-color: #2e2e2e; }
 	.editorMarkdown_header { background-color: #202020; }
-	.editorMarkdown_textarea { color: #fff; background-color: #2e2e2e; }
+	.css-fa7ybv textarea { color: #fff; background-color: #2e2e2e; }
 	.editorPreview_header { color: #fff; background-color: #2e2e2e; }
-	.editorPreview_cheatsheet, .editorPreview_cheatsheet h4 { color: #fff !important; background-color: #2e2e2e; }
+	.editorPreview_cheatsheet .editorPreview_cheatsheet h4 { color: #fff !important; background-color: #2e2e2e; }
 	.markdownCheatsheet_header, .markdownCheatsheet_content { color: #fff; }
 	.markdownCheatsheet_content { background-color: #202020; }
 	.editorFooter { background-color: #2e2e2e }
-	.editorPreview_article { color: #fff; background-color: #2e2e2e; }
+	.css-g26s69 { color: #fff; background-color: #2e2e2e; }
 	.it-MdContent h1 { color: white; }
 	.it-MdContent h2 { color: white; }
 	.it-MdContent h3 { color: white; margin-top: 2rem; margin-bottom: 1rem; padding-left: 0.5em; border-left: solid 4px limegreen; }
 	.it-MdContent h4 { color: white; }
 	.it-MdContent h5 { color: white; }
 	.it-MdContent h6 { color: white; }
-	.slide_preview { color: #fff; background-color: #2e2e2e; }
+	.slideMode-Viewer { color: #fff; background-color: #2e2e2e; }
 	.editorSubmit_dropdownMenu { color: #fff; background-color: #4a4a4a }
 	a.editorSubmit_dropdownItem, a.editorSubmit_dropdownItem i, i.fa.fa-check { color: #fff !important; }
 	a.editorSubmit_dropdownItem:hover, a.editorSubmit_dropdownItem:hover i, i.fa.fa-check:hover { color: #000 !important; }
